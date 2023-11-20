@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Login">
+    <test name="MainAccountUpdateInfo">
+        <classes>
+            <class name="WebBrowser.SignIn_Test"/>
+            <methods>
+            </methods>
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test Globedr"  >
+    <suite-files>
+        <suite-file path="Suite_SignIn.xml" />
+    </suite-files>
+</suite>
