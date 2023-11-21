@@ -33,7 +33,7 @@
                 <configuration>
                     <suiteXmlFiles>
                         <!--suppress UnresolvedMavenProperty -->
-                        <suiteXmlFiles>src/test/java/WebBrowser/TestNG.xml</suiteXmlFiles>
+                        <suiteXmlFiles>${xmlFiles}</suiteXmlFiles>
                     </suiteXmlFiles>
                     <systemPropertyVariables>
                         <!--suppress UnresolvedMavenProperty -->
